@@ -1,0 +1,2 @@
+# textFormatter
+Formats pasted text
